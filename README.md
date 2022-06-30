@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neyooooooo
+- 👋 Hi, I’m @Gullutaxidriver
 - 👀 I’m interested in python
 - 🌱 I’m currently learning c and python
 - 💞️ I’m looking to collaborate on ..
